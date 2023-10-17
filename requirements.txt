@@ -1,0 +1,7 @@
+browserstack-local >= 1.2.3
+selenium
+browserstack-sdk
+webdriver_helper
+pykeyboard
+pyperclip
+pymouse

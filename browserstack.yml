@@ -1,0 +1,22 @@
+userName: zhangyuanpu_EAIz6F
+accessKey: RJ2q4Zsv1SH1szGtmrcQ
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 103.0
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: latest
+  - os: OS X
+    osVersion: Ventura
+    browserName: Edge
+    browserVersion: latest-beta
+browserstackLocal: true
+buildName: bstack-demo
+buildIdentifier: ${BUILD_NUMBER}
+projectName: BrowserStack Sample
+debug: true
+networkLogs: true
+consoleLogs: info
