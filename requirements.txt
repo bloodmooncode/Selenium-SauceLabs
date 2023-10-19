@@ -1,6 +1,4 @@
-browserstack-local >= 1.2.3
 selenium
-browserstack-sdk
-webdriver-helper
+webdriver-helper==1.*
 PyUserInput
 pyperclip
